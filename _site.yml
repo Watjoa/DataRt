@@ -1,0 +1,20 @@
+name: "Data Rt"
+navbar:
+  title: "Data Rt"
+  left:
+    - text: "Data Rt"
+      menu:
+      - text: "Online"
+        href: DataRt.html
+        icon: fa fa-code
+      - text: "PDF"
+        href: https://watjoa.github.io/DataRt.pdf
+        icon: fa fa-download
+  right:
+    - icon: fa-twitter
+      href: https://twitter.com/watjoa
+    - icon: fa-linkedin
+      href: https://github.com/watjoa/
+    - icon: fa-github
+      href: https://www.linkedin.com/in/watjoa/
+output_dir: "docs"
