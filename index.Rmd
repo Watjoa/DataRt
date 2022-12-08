@@ -4,9 +4,7 @@ subtitle: "* /ˈdeɪtə /ɑː(r)t/ "
 author: "Latest update - `r format(Sys.time(), '%d %B %Y')`"
 output:
   html_document:
-    toc: yes
-    toc_float: yes
-    toc_depth: 1
+    toc: false
     theme: flatly
     highlight: textmate
 ---
@@ -60,7 +58,7 @@ div.grey { background-color:#ebebeb; color: white; border-radius: 5px; padding: 
 # News and updates
 ***
 
-## December 2022
+### December 2022
 
 * Data Rt is created
 
